@@ -11,7 +11,7 @@ body{
     
 }
 h1{
-    font-size: 50px;
+    font-size: 55px;
     border-left: 5px solid tomato;
     border-radius: 5px;
 }
@@ -36,7 +36,7 @@ a{
 }
 h2{
     text-align: center;
-    font-size: 40px;
+    font-size: 50px;
 }
 .mission-vision-goals{
     width: 25%;
@@ -44,8 +44,8 @@ h2{
 .mission-vision-goals img{
     width: 40%;
 }
-h3{
-    font-size: 20px;
+h4{
+    font-size: 22px;
 }
 #mission{
     margin-left: 2%;
@@ -83,9 +83,42 @@ h3{
     margin-left: 5%;
     margin-right: 10%;
 }
-h4{
+h3{
     font-size: 50px;
 }
 .global-community{
     margin-top: 100px;
+}
+.my-addition{
+    margin-top: 100px;
+}
+.people{
+    width: 40%;
+    margin-left: 10%;
+    padding: 10px;
+
+}
+.people img{
+    width: 60%;
+}
+h5{
+    color: indianred;
+    font-size: 18px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 100px;
+}
+#foot-color{
+    color:white;
+    font-size: 30px;
+}
+#pera-color{
+    color: white;
+}
+#new-color{
+    color:tomato;
 }
