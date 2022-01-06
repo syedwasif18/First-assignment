@@ -71,6 +71,11 @@ h4{
 }
 .development{
     margin-top: 100px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position-x: left;
+    background-position-y: center;
 }
 .fourty-percent{
     width: 40%;
@@ -89,6 +94,11 @@ h3{
 }
 .global-community{
     margin-top: 100px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position-x: right;
+    background-position-y: bottom;
 }
 .my-addition{
     margin-top: 100px;
